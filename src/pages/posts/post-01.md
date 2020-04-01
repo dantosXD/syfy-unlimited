@@ -1,15 +1,18 @@
 ---
-title: Amet Lorem Tempus
-subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
-excerpt: >-
-  Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a
-  ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit
-  ullamcorper sed blandit lorem ipsum dolore.
+title: Some cool new offering
+subtitle: >-
+  Once the ute demolished the engine? The walk-in throttled the vocational tow
+  hook but the 4WD demolished the four wheel drive passenger wagon. The F-650
+  throttled the galvanized crane therefore the hand truck fixed the work-ready
+  walk-in. The mechanics body drove the shock-resistant combo body! Once the
+  rollback body drove the biodiesel but the steel Sierra 3500 was deconstructed
+  by the platform body!
+excerpt: This is the abbreviated text to entice people to click to read more.
 content_img:
   enabled: true
-  path: images/pic10.jpg
+  path: /images/cover-image.jpg
   url: '#'
-alt_img: images/pic09.jpg
+alt_img: /images/cover-image.jpg
 sidebar:
   enabled: false
   side: left
