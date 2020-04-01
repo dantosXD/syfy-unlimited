@@ -3,7 +3,7 @@ title: No Sidebar
 subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
 content_img:
   enabled: true
-  path: images/pic10.jpg
+  path: /images/cover-image.jpg
   url: '#'
 sidebar:
   enabled: false
