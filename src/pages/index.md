@@ -17,21 +17,21 @@ sections:
   - type: features
     section_id: features
     features:
-      - title: Integer vitae consequat sed magna feugiat
+      - title: Got in an accident? We can fix that!
         icon:
           enabled: true
-          icon: fa-area-chart
+          icon: fa-car-crash
           style: style1
         description: >-
           The durable cab to axle ratio was crashed by the Nissan? Once the body
           length totaled the NPR-HD. The dually deconstructed the bio-fuel RAM.
           Once the 4WD throttled the fire truck while the AWD developed the
           aluminum service utility van?
-      - title: Phasellus libero eu sed augue gravida
+      - title: We can make custom cars!
         icon:
           enabled: true
-          icon: fa-pie-chart
-          style: style2
+          icon: fa-skrewdriver
+          style: style1
         description: >-
           Once the cab chassis throttled the dump truck but the heavy duty
           ProMaster 3500 was trucked by the platform body? The mechanical,
