@@ -1,7 +1,7 @@
 ---
-title: home
+title: Syfy-Unlimited
 banner:
-  title: Amet donec nullam fermentum
+  title: Syfy-Unlimited
   subtitle: Sed magna in pharetra ultricies dolor sit consequat magna.
   actions:
     - label: Learn More
