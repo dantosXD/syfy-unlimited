@@ -1,5 +1,5 @@
 ---
-title: Syfy-Unlimited
+title: Sci-fy Unlimited
 banner:
   title: Syfy-Unlimited
   subtitle: >-
