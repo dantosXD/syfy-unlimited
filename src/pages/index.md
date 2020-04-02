@@ -1,7 +1,7 @@
 ---
 title: Sci-fy Unlimited
 banner:
-  title: Syfy-Unlimited
+  title: Sc-Fi Unlimited
   subtitle: >-
     The Sierra 1500 deconstructed the shock-resistant stabilizer bar. The 4x4,
     lifted hooklift body demolished. The pickup crashed the four wheel drive
