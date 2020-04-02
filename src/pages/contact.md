@@ -30,3 +30,18 @@ In vestibulum massa quis arcu lobortis tempus. Nam pretium arcu in odio vulputat
 * Lobortis vestibulum ut magna tempor massa nascetur.
 * Blandit massa non blandit tempor interdum.
 * Lacinia mattis arcu nascetur lobortis.
+
+<form name="contact" method="POST" data-netlify="true">
+  <p>
+    <label>Your Name: <input type="text" name="name" /></label>   
+  </p>
+  <p>
+    <label>Your Email: <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <label>What Needs To Be Fixed: <textarea name="message"></textarea></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
