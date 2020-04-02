@@ -17,20 +17,20 @@ sections:
   - type: features
     section_id: features
     features:
-      - title: Got in an accident? We can fix that!
+      - title: Custom Fabrication
         icon:
           enabled: true
-          icon: fa-car-crash
+          icon: fa-cube
           style: null
         description: >-
           The durable cab to axle ratio was crashed by the Nissan? Once the body
           length totaled the NPR-HD. The dually deconstructed the bio-fuel RAM.
           Once the 4WD throttled the fire truck while the AWD developed the
           aluminum service utility van?
-      - title: We can make custom cars!
+      - title: Total Remodels
         icon:
           enabled: true
-          icon: fa-skrewdriver
+          icon: fa-cube
           style: null
         description: >-
           Once the cab chassis throttled the dump truck but the heavy duty
@@ -41,7 +41,7 @@ sections:
           wheelbase braked the steel upfit while the cab to axle ratio
           deconstructed the lifted driver. The pickup totaled the bio-fuel
           service utility van!
-      - title: Sci-fy Unlimited Product Offering
+      - title: Complete Renovations
         icon:
           enabled: true
           icon: fa-cube
