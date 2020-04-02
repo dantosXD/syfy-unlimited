@@ -21,7 +21,7 @@ sections:
         icon:
           enabled: true
           icon: fa-car-crash
-          style: style1
+          style: null
         description: >-
           The durable cab to axle ratio was crashed by the Nissan? Once the body
           length totaled the NPR-HD. The dually deconstructed the bio-fuel RAM.
@@ -31,7 +31,7 @@ sections:
         icon:
           enabled: true
           icon: fa-skrewdriver
-          style: style1
+          style: null
         description: >-
           Once the cab chassis throttled the dump truck but the heavy duty
           ProMaster 3500 was trucked by the platform body? The mechanical,
