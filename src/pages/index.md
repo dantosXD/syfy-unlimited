@@ -8,18 +8,18 @@ banner:
     4x2. The wrecker body deconstructed the vocational F-150. The diesel, 2x4
     ProStar+ developed.
   actions:
-    - label: Learn More
-      url: /no-sidebar
+    - label: Get a Free Quote Today
+      url: /contact
       is_primary: false
       is_scrolly: false
       is_huge: true
 sections:
   - type: cta
     section_id: cta
-    title: Get a Free Quote Today
+    title: The Story That Makes Sci-Fy Unlimited Special.
     actions:
-      - label: Submit your request - We will get back to you within 48 Hours.
-        url: /contact
+      - label: Learn About Us
+        url: /no-sidebar
         is_primary: true
         is_scrolly: false
     text: >-
