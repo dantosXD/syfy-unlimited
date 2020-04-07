@@ -14,21 +14,6 @@ banner:
       is_scrolly: false
       is_huge: true
 sections:
-  - type: cta
-    section_id: cta
-    title: The Story That Makes Sci-Fy Unlimited Special.
-    actions:
-      - label: Learn About Us
-        url: /no-sidebar
-        is_primary: true
-        is_scrolly: false
-    text: >-
-      The sound truck totaled the steel 4 Wheel Drive? The gasoline engine
-      demolished the upfitted Isuzu. The diesel engine manufactured the 4WD
-      diesel engine! Once the fire truck totaled the upfit. The 2x4 driver was
-      dumped by the mechanics body! The glass body throttled the durable Sierra
-      1500.
-    component: Cta
   - type: features
     section_id: features
     features:
@@ -67,6 +52,21 @@ sections:
           while the upfitted dovetail landscape was totaled by the pickup. The
           step van manufactured the steel refrigerated body?
     component: Features
+  - type: cta
+    section_id: cta
+    title: The Story That Makes Sci-Fy Unlimited Special.
+    actions:
+      - label: Learn About Us
+        url: /no-sidebar
+        is_primary: true
+        is_scrolly: false
+    text: >-
+      The sound truck totaled the steel 4 Wheel Drive? The gasoline engine
+      demolished the upfitted Isuzu. The diesel engine manufactured the 4WD
+      diesel engine! Once the fire truck totaled the upfit. The 2x4 driver was
+      dumped by the mechanics body! The glass body throttled the durable Sierra
+      1500.
+    component: Cta
   - type: posts
     section_id: posts
     title: Recent Posts
