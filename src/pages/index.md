@@ -20,7 +20,7 @@ sections:
     actions:
       - label: Submit your request - We will get back to you within 48 Hours.
         url: /contact
-        is_primary: false
+        is_primary: true
         is_scrolly: false
     text: >-
       The sound truck totaled the steel 4 Wheel Drive? The gasoline engine
